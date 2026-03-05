@@ -21,7 +21,7 @@ const ContactSection = () => (
         <div className="space-y-8">
           {[
             { icon: Phone, label: "Phone / WhatsApp", value: "+91 90470 21676", href: "tel:+919047021676" },
-            { icon: Globe, label: "Website", value: "uniqueboutiqueart.com", href: "https://uniqueboutiqueart.com" },
+            // { icon: Globe, label: "Website", value: "uniqueboutiqueart.com", href: "https://uniqueboutiqueart.com" },
             {
               icon: MapPin,
               label: "Location",
